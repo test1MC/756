@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="sk" xml:lang="sk" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="63327b2f-e494-454c-99bf-bacb4848fac2">
+<LingoProject TargetLanguage="ar-bh;sk" xml:lang="ar-bh" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="63327b2f-e494-454c-99bf-bacb4848fac2">
     <ProjectFile Source="Target/4tfs.flprj" Target="Target/4tfs.flprj" />
 </LingoProject>
